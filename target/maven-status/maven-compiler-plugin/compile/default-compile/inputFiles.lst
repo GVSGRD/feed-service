@@ -1,0 +1,15 @@
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/entity/Post.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/entity/Team.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/entity/User.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/controller/LikeController.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/service/LikeService.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/entity/Comment.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/controller/PostController.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/FeedServiceApplication.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/service/CommentService.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/entity/Like.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/controller/CommentController.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/repository/LikeRepository.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/repository/CommentRepository.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/repository/PostRepository.java
+/home/ganeshmanchi/ZoinMe/feed-service/src/main/java/com/startupsync/com/feedservice/service/PostService.java
